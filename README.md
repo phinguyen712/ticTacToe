@@ -4,7 +4,7 @@ Rules:
 2. Players scores will tally up for every victory.
 3. Pressing the restart button will reset all scores.
 
-
+Installation:
 You need Xcode 10+ to run on ios emulator.
 Run these following commands in terminal in folder directory
 1. npm install
